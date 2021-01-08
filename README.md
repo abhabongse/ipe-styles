@@ -1,5 +1,9 @@
 # IPE Style Sheets
 
+> :warning: **This project is abandoned. Please see [this XeLaTeX template](https://github.com/abhabongse/xelatex-tenth) for recent updates.***
+
+---
+
 This repository contains a collection of IPE style sheets,
 such as to add extra color palettes for different corporate identities
 for which I had to work, etc.
